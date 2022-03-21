@@ -1,13 +1,8 @@
-# README
-## This is the README for your extension "IHS"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is a mix between two different themes:
+1-Coder Coder Dark theme, from this one I took the background colors.
+2-Turtle Theme, from this I took the token colors.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Just enjoy, I did this for me, so I don't care about what you do with it.
+Thanks for reading!
 
-**Enjoy!**

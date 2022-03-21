@@ -1,10 +1,14 @@
 {
     "name": "IHS",
     "displayName": "IHS",
-    "description": "",
+    "description": "I create this for me, so I don't care",
     "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
+    "publisher": "IHS",
+    "engines": {"vscode": "^1.65.0"},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IsaacHS5/IHS"   
+
     },
     "categories": [
         "Themes"
